@@ -1,0 +1,42 @@
+body {
+    background-image: url('background/bg.jpg');
+    background-size: cover;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 100px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 27px;
+}
+
+.link-box {
+    background-color: rgba(2, 2, 2, 0.7);
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+ul {
+    padding: 0px;
+}
+
+ul li {
+    list-style: none;
+    padding: 20px;
+}
+
+ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+}

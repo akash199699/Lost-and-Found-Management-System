@@ -1,0 +1,46 @@
+body.lost-found-bg {
+    background: linear-gradient(rgba(27,0,27,0.5), rgba(7,27,127,0.3)), url('background/bg.jpg') center/cover no-repeat;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 64px;
+    margin-bottom: 50px;
+    color: #272727;
+}
+
+.options {
+    margin-bottom: 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 20px 100px;
+    background-color: #3CAF27;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #00aa27;
+}
+
+.return-link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.return-link:hover {
+    text-decoration: underline;
+}
