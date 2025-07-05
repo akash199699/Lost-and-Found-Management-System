@@ -64,10 +64,3 @@ As part of an academic project to solve real-world lost and found issues
 This project is for educational purposes. Feel free to modify or enhance it for personal use.
 
 ```
-
----
-
-✅ You can paste this directly into your `README.md` file inside the project.
-
-If you'd like, I can also suggest a `.gitignore` for this web project. Just say **"Generate .gitignore for Lost and Found"**.
-```
